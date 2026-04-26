@@ -1,0 +1,287 @@
+[
+
+  {
+
+    "title": "beIN Sports 1 HD",
+
+    "logo": "https://cityupload.io/2025/12/bein1.png",
+
+    "key": "bein",
+
+    "id": "1",
+
+    "type": "channel",
+
+    "servers": [
+
+      {
+
+        "name": "جودة متعددة",
+
+        "url": "http://het139a.ycn-redirect.com/live/918454578001/index.m3u8",
+
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+
+        "referer": "https://x.com/",
+
+        "origin": "https://x.com",
+
+        "cookie": "",
+
+        "drm_scheme": "",
+
+        "clearkey_key": "",
+
+        "clearkey_kid": "",
+
+        "drm_license_url": "",
+
+        "headers": {}
+
+      },
+
+      {
+
+        "name": "جودة عالية",
+
+        "url": "http://het101b.ycn-redirect.com/live/918454578001/index.m3u8",
+
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+
+        "referer": "https://x.com/",
+
+        "origin": "https://x.com",
+
+        "cookie": "",
+
+        "drm_scheme": "",
+
+        "clearkey_key": "",
+
+        "clearkey_kid": "",
+
+        "drm_license_url": "",
+
+        "headers": {}
+
+      },
+
+      {
+
+        "name": "جودة متوسطة",
+
+        "url": "http://het130c.ycn-redirect.com/live/918454578001/index.m3u8",
+
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+
+        "referer": "https://x.com/",
+
+        "origin": "https://x.com",
+
+        "cookie": "",
+
+        "drm_scheme": "",
+
+        "clearkey_key": "",
+
+        "clearkey_kid": "",
+
+        "drm_license_url": "",
+
+        "headers": {}
+
+      },
+
+      {
+
+        "name": "جودة ضعيفة",
+
+        "url": "http://het102a.ycn-redirect.com/live/978480008877005/index.m3u8",
+
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+
+        "referer": "https://x.com/",
+
+        "origin": "https://x.com",
+
+        "cookie": "",
+
+        "drm_scheme": "",
+
+        "clearkey_key": "",
+
+        "clearkey_kid": "",
+
+        "drm_license_url": "",
+
+        "headers": {}
+
+      }
+
+    ]
+
+  },
+
+  {
+
+    "title": "beIN Sports 2 HD",
+
+    "logo": "https://cityupload.io/2025/12/bein2.png",
+
+    "key": "bein",
+
+    "id": "2",
+
+    "type": "channel",
+
+    "servers": [
+
+      {
+
+        "name": "جودة عالية",
+
+        "url": "http://het101b.ycn-redirect.com/live/918454578002/index.m3u8",
+
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+
+        "referer": "https://x.com/",
+
+        "origin": "https://x.com",
+
+        "cookie": "",
+
+        "drm_scheme": "",
+
+        "clearkey_key": "",
+
+        "clearkey_kid": "",
+
+        "drm_license_url": "",
+
+        "headers": {}
+
+      },
+
+      {
+
+        "name": "جودة متعددة",
+
+        "url": "http://het139a.ycn-redirect.com/live/918454578002/index.m3u8",
+
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+
+        "referer": "https://x.com/",
+
+        "origin": "https://x.com",
+
+        "cookie": "",
+
+        "drm_scheme": "",
+
+        "clearkey_key": "",
+
+        "clearkey_kid": "",
+
+        "drm_license_url": "",
+
+        "headers": {}
+
+      }
+
+    ]
+
+  },
+
+  {
+
+    "title": "قناة مشفرة DRM",
+
+    "logo": "https://cityupload.io/2025/12/drm_channel.png",
+
+    "key": "bein",
+
+    "id": "3",
+
+    "type": "channel",
+
+    "servers": [
+
+      {
+
+        "name": "1080p DRM",
+
+        "url": "https://example.com/drm/stream.m3u8",
+
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+
+        "referer": "https://example.com/",
+
+        "origin": "https://example.com",
+
+        "cookie": "session=abc123",
+
+        "drm_scheme": "widevine",
+
+        "clearkey_key": "",
+
+        "clearkey_kid": "",
+
+        "drm_license_url": "https://example.com/license",
+
+        "headers": {
+
+          "custom-header": "value123"
+
+        }
+
+      }
+
+    ]
+
+  },
+
+  {
+
+    "title": "قناة ClearKey",
+
+    "logo": "https://cityupload.io/2025/12/clearkey.png",
+
+    "key": "bein",
+
+    "id": "4",
+
+    "type": "channel",
+
+    "servers": [
+
+      {
+
+        "name": "720p ClearKey",
+
+        "url": "https://example.com/ck/stream.m3u8",
+
+        "user_agent": "Mozilla/5.0",
+
+        "referer": "https://example.com/",
+
+        "origin": "https://example.com",
+
+        "cookie": "",
+
+        "drm_scheme": "clearkey",
+
+        "clearkey_key": "1234567890abcdef1234567890abcdef",
+
+        "clearkey_kid": "abcdef1234567890abcdef1234567890",
+
+        "drm_license_url": "",
+
+        "headers": {}
+
+      }
+
+    ]
+
+  }
+
+]
