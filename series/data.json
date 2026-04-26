@@ -1,0 +1,73 @@
+[
+  {
+    "id": "1",
+    "title": "Game of Thrones",
+    "poster": "https://site.com/images/got.jpg",
+    "keys": ["action", "drama"],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "الموسم الأول",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Winter is Coming",
+            "url": "https://site.com/series/got/s01e01.mp4",
+            "subtitles": [
+              { "language": "عربي", "url": "https://site.com/subtitles/got_s01e01_ar.srt" },
+              { "language": "English", "url": "https://site.com/subtitles/got_s01e01_en.srt" }
+            ]
+          },
+          {
+            "number": 2,
+            "title": "The Kingsroad",
+            "url": "https://site.com/series/got/s01e02.mp4",
+            "subtitles": [
+              { "language": "عربي", "url": "https://site.com/subtitles/got_s01e02_ar.srt" }
+            ]
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "title": "الموسم الثاني",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "The North Remembers",
+            "url": "https://site.com/series/got/s02e01.mp4",
+            "subtitles": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Breaking Bad",
+    "poster": "https://site.com/images/bb.jpg",
+    "keys": ["drama", "thriller"],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "الموسم الأول",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Pilot",
+            "url": "https://site.com/series/bb/s01e01.mp4",
+            "subtitles": [
+              { "language": "عربي", "url": "https://site.com/subtitles/bb_s01e01_ar.srt" }
+            ]
+          },
+          {
+            "number": 2,
+            "title": "Cat's in the Bag",
+            "url": "https://site.com/series/bb/s01e02.mp4",
+            "subtitles": []
+          }
+        ]
+      }
+    ]
+  }
+]
