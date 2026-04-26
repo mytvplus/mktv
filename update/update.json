@@ -17,7 +17,7 @@
     ]
   },
   "update": {
-    "enabled": false,
+    "enabled": true,
     "required": false,
     "title": "تحديث جديد",
     "message": "يتوفر إصدار جديد من التطبيق\nيرجى التحديث للحصول على أحدث الميزات",
