@@ -1,17 +1,39 @@
 {
-  "enabled": true,
-  "title": "MK TV",
-  "message": "Join Our Telegram Channle",
-  "buttons": [
-    {
-      "text": "Join",
-      "url": "https://t.me/user",
-      "style": "primary"
-    },
-    {
-      "text": "Later",
-      "action": "dismiss",
-      "style": "secondary"
-    }
-  ]
+  "telegram": {
+    "enabled": true,
+    "title": "MK TV",
+    "message": "انضم لقناة التليجرام ليصلك كل جديد",
+    "buttons": [
+      {
+        "text": "انضمام",
+        "url": "https://t.me/user",
+        "style": "primary"
+      },
+      {
+        "text": "لاحقاً",
+        "action": "dismiss",
+        "style": "secondary"
+      }
+    ]
+  },
+  "update": {
+    "enabled": false,
+    "required": false,
+    "title": "تحديث جديد",
+    "message": "يتوفر إصدار جديد من التطبيق\nيرجى التحديث للحصول على أحدث الميزات",
+    "version": "2.0",
+    "url": "https://site.com/app.apk",
+    "buttons": [
+      {
+        "text": "تحديث الآن",
+        "url": "https://site.com/app.apk",
+        "style": "primary"
+      },
+      {
+        "text": "تخطي",
+        "action": "dismiss",
+        "style": "secondary"
+      }
+    ]
+  }
 }
