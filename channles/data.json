@@ -2,33 +2,29 @@
   {
     "title": "beIN SPORTS",
     "logo": "https://cityupload.io/2025/11/unnamed_d6795.png",
-    "key": "bein",
     "id": "1",
     "type": "package",
-    "url": "https://site.com/api/channels/bein/data.json"
+    "url": "https://mytvplus.github.io/mktv/channles/bein/data.json"
   },
   {
     "title": "Thamanya",
     "logo": "https://cityupload.io/2025/12/٢٠٢٥١٢٢٣-٢٢٥١٤٠.png",
-    "key": "thamanya",
     "id": "2",
     "type": "channel",
-    "url": "https://site.com/api/channels/thamanya/data.json"
+    "url": "https://mytvplus.github.io/mktv/channles/thamanya/data.json"
   },
   {
     "title": "Starz Play",
     "logo": "https://cityupload.io/2025/11/٢٠٢٥١١٢٢-١٧١٥٢٨.png",
-    "key": "starz",
     "id": "3",
     "type": "channel",
-    "url": "https://site.com/api/channels/starzplay/data.json"
+    "url": "https://mytvplus.github.io/mktv/channles/starzplay/data.json"
   },
   {
     "title": "Shahid SPORTS",
     "logo": "https://cityupload.io/2025/12/٢٠٢٥١٢٢٣-٢٢٤٧٤٠.png",
-    "key": "shahid",
     "id": "4",
     "type": "channel",
-    "url": "https://site.com/api/channels/shahid/data.json"
+    "url": "https://mytvplus.github.io/mktv/channles/shahid/data.json"
   }
 ]
