@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "title": "Crime 101",
+    "poster": "https://media.appmytv.com/image/movies/12095/34b4786c8c2974e99eea7acb0210139b.jpeg",
+    "genre": "أكشن",
+    "url": "http://130.193.166.118/sss/EnglishMovies1/2026/Crime101-NoSub.mp4",
+    "subtitles": [
+      { "language": "عربي", "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2026/Crime101-Ar.srt" },
+      { "language": "English", "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2026/Crime101-En.srt" }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Inception",
+    "poster": "https://site.com/images/inception.jpg",
+    "genre": "تشويق",
+    "url": "https://site.com/movies/inception.m3u8",
+    "subtitles": [
+      { "language": "عربي", "url": "https://site.com/subtitles/inception_ar.srt" }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "The Conjuring",
+    "poster": "https://site.com/images/conjuring.jpg",
+    "genre": "رعب",
+    "url": "https://site.com/movies/conjuring.m3u8",
+    "subtitles": [
+      { "language": "عربي", "url": "https://site.com/subtitles/conjuring_ar.srt" },
+      { "language": "English", "url": "https://site.com/subtitles/conjuring_en.srt" }
+    ]
+  },
+  {
+    "id": "4",
+    "title": "The Godfather",
+    "poster": "https://site.com/images/godfather.jpg",
+    "genre": "دراما",
+    "url": "https://site.com/movies/godfather.m3u8",
+    "subtitles": []
+  },
+  {
+    "id": "5",
+    "title": "John Wick",
+    "poster": "https://site.com/images/johnwick.jpg",
+    "genre": "إثارة",
+    "url": "https://site.com/movies/johnwick.m3u8",
+    "subtitles": [
+      { "language": "عربي", "url": "https://site.com/subtitles/johnwick_ar.srt" }
+    ]
+  }
+]
