@@ -1,9 +1,11 @@
+هاد محتوى json 
 [
   {
     "title": "beIN SPORTS",
     "logo": "https://cityupload.io/2025/11/unnamed_d6795.png",
     "key": "bein",
     "id": "1",
+    "type": "package",
     "url": "https://site.com/api/channels/bein/data.json"
   },
   {
@@ -11,196 +13,23 @@
     "logo": "https://cityupload.io/2025/12/٢٠٢٥١٢٢٣-٢٢٥١٤٠.png",
     "key": "thamanya",
     "id": "2",
-    "url": "https://site.com/api/channels/thamanya/data.json"
-  },
-  
-  {
-    "title": "Thamanya",
-    "logo": "https://cityupload.io/2025/12/٢٠٢٥١٢٢٣-٢٢٥١٤٠.png",
-    "key": "thamanya",
-    "id": "3",
-    "url": "https://site.com/api/channels/thamanya/data.json"
-  },
-  
-  {
-    "title": "Thamanya",
-    "logo": "https://cityupload.io/2025/12/٢٠٢٥١٢٢٣-٢٢٥١٤٠.png",
-    "key": "thamanya",
-    "id": "4",
-    "url": "https://site.com/api/channels/thamanya/data.json"
-  },
-  
-  {
-    "title": "Thamanya",
-    "logo": "https://cityupload.io/2025/12/٢٠٢٥١٢٢٣-٢٢٥١٤٠.png",
-    "key": "thamanya",
-    "id": "5",
-    "url": "https://site.com/api/channels/thamanya/data.json"
-  },
-  
-  {
-    "title": "Thamanya",
-    "logo": "https://cityupload.io/2025/12/٢٠٢٥١٢٢٣-٢٢٥١٤٠.png",
-    "key": "thamanya",
-    "id": "6",
-    "url": "https://site.com/api/channels/thamanya/data.json"
-  },
-  
-  {
-    "title": "Thamanya",
-    "logo": "https://cityupload.io/2025/12/٢٠٢٥١٢٢٣-٢٢٥١٤٠.png",
-    "key": "thamanya",
-    "id": "7",
-    "url": "https://site.com/api/channels/thamanya/data.json"
-  },
-  
-  {
-    "title": "Thamanya",
-    "logo": "https://cityupload.io/2025/12/٢٠٢٥١٢٢٣-٢٢٥١٤٠.png",
-    "key": "thamanya",
-    "id": "8",
-    "url": "https://site.com/api/channels/thamanya/data.json"
-  },
-  
-  {
-    "title": "Thamanya",
-    "logo": "https://cityupload.io/2025/12/٢٠٢٥١٢٢٣-٢٢٥١٤٠.png",
-    "key": "thamanya",
-    "id": "9",
-    "url": "https://site.com/api/channels/thamanya/data.json"
-  },
-  
-  {
-    "title": "Thamanya",
-    "logo": "https://cityupload.io/2025/12/٢٠٢٥١٢٢٣-٢٢٥١٤٠.png",
-    "key": "thamanya",
-    "id": "10",
-    "url": "https://site.com/api/channels/thamanya/data.json"
-  },
-  
-  {
-    "title": "Thamanya",
-    "logo": "https://cityupload.io/2025/12/٢٠٢٥١٢٢٣-٢٢٥١٤٠.png",
-    "key": "thamanya",
-    "id": "11",
-    "url": "https://site.com/api/channels/thamanya/data.json"
-  },
-  
-  {
-    "title": "Thamanya",
-    "logo": "https://cityupload.io/2025/12/٢٠٢٥١٢٢٣-٢٢٥١٤٠.png",
-    "key": "thamanya",
-    "id": "12",
-    "url": "https://site.com/api/channels/thamanya/data.json"
-  },
-  
-  {
-    "title": "Thamanya",
-    "logo": "https://cityupload.io/2025/12/٢٠٢٥١٢٢٣-٢٢٥١٤٠.png",
-    "key": "thamanya",
-    "id": "13",
-    "url": "https://site.com/api/channels/thamanya/data.json"
-  },
-  
-  {
-    "title": "Thamanya",
-    "logo": "https://cityupload.io/2025/12/٢٠٢٥١٢٢٣-٢٢٥١٤٠.png",
-    "key": "thamanya",
-    "id": "14",
-    "url": "https://site.com/api/channels/thamanya/data.json"
-  },
-  
-  {
-    "title": "Thamanya",
-    "logo": "https://cityupload.io/2025/12/٢٠٢٥١٢٢٣-٢٢٥١٤٠.png",
-    "key": "thamanya",
-    "id": "15",
-    "url": "https://site.com/api/channels/thamanya/data.json"
-  },
-  
-  {
-    "title": "Thamanya",
-    "logo": "https://cityupload.io/2025/12/٢٠٢٥١٢٢٣-٢٢٥١٤٠.png",
-    "key": "thamanya",
-    "id": "16",
-    "url": "https://site.com/api/channels/thamanya/data.json"
-  },
-  
-  {
-    "title": "Thamanya",
-    "logo": "https://cityupload.io/2025/12/٢٠٢٥١٢٢٣-٢٢٥١٤٠.png",
-    "key": "thamanya",
-    "id": "17",
-    "url": "https://site.com/api/channels/thamanya/data.json"
-  },
-  
-  {
-    "title": "Thamanya",
-    "logo": "https://cityupload.io/2025/12/٢٠٢٥١٢٢٣-٢٢٥١٤٠.png",
-    "key": "thamanya",
-    "id": "18",
-    "url": "https://site.com/api/channels/thamanya/data.json"
-  },
-  
-  {
-    "title": "Thamanya",
-    "logo": "https://cityupload.io/2025/12/٢٠٢٥١٢٢٣-٢٢٥١٤٠.png",
-    "key": "thamanya",
-    "id": "19",
-    "url": "https://site.com/api/channels/thamanya/data.json"
-  },
-  
-  {
-    "title": "Thamanya",
-    "logo": "https://cityupload.io/2025/12/٢٠٢٥١٢٢٣-٢٢٥١٤٠.png",
-    "key": "thamanya",
-    "id": "20",
-    "url": "https://site.com/api/channels/thamanya/data.json"
-  },
-  
-  {
-    "title": "Thamanya",
-    "logo": "https://cityupload.io/2025/12/٢٠٢٥١٢٢٣-٢٢٥١٤٠.png",
-    "key": "thamanya",
-    "id": "21",
-    "url": "https://site.com/api/channels/thamanya/data.json"
-  },
-  
-  {
-    "title": "Thamanya",
-    "logo": "https://cityupload.io/2025/12/٢٠٢٥١٢٢٣-٢٢٥١٤٠.png",
-    "key": "thamanya",
-    "id": "22",
-    "url": "https://site.com/api/channels/thamanya/data.json"
-  },
-  
-  {
-    "title": "Thamanya",
-    "logo": "https://cityupload.io/2025/12/٢٠٢٥١٢٢٣-٢٢٥١٤٠.png",
-    "key": "thamanya",
-    "id": "23",
-    "url": "https://site.com/api/channels/thamanya/data.json"
-  },
-  
-  {
-    "title": "Thamanya",
-    "logo": "https://cityupload.io/2025/12/٢٠٢٥١٢٢٣-٢٢٥١٤٠.png",
-    "key": "thamanya",
-    "id": "24",
+    "type": "channel",
     "url": "https://site.com/api/channels/thamanya/data.json"
   },
   {
     "title": "Starz Play",
     "logo": "https://cityupload.io/2025/11/٢٠٢٥١١٢٢-١٧١٥٢٨.png",
     "key": "starz",
-    "id": "25",
+    "id": "3",
+    "type": "channel",
     "url": "https://site.com/api/channels/starzplay/data.json"
   },
   {
     "title": "Shahid SPORTS",
     "logo": "https://cityupload.io/2025/12/٢٠٢٥١٢٢٣-٢٢٤٧٤٠.png",
     "key": "shahid",
-    "id": "26",
+    "id": "4",
+    "type": "channel",
     "url": "https://site.com/api/channels/shahid/data.json"
   }
 ]
