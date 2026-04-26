@@ -1,0 +1,8 @@
+[
+  { "title": "الجميع", "key": "all" },
+  { "title": "أكشن", "key": "action" },
+  { "title": "تشويق", "key": "thriller" },
+  { "title": "رعب", "key": "horror" },
+  { "title": "دراما", "key": "drama" },
+  { "title": "كوميدي", "key": "comedy" }
+]
