@@ -1,71 +1,309 @@
 [
   {
     "id": "1",
-    "title": "Game of Thrones",
-    "poster": "https://site.com/images/got.jpg",
-    "keys": ["action", "drama"],
+    "title": "The Last of Us",
+    "poster": "https://media.appmytv.com/image/movies/12095/34b4786c8c2974e99eea7acb0210139b.jpeg",
+    "keys": ["action", "horror", "drama"],
     "seasons": [
       {
         "number": 1,
         "title": "الموسم الأول",
         "episodes": [
-          {
-            "number": 1,
-            "title": "Winter is Coming",
-            "url": "https://site.com/series/got/s01e01.mp4",
-            "subtitles": [
-              { "language": "عربي", "url": "https://site.com/subtitles/got_s01e01_ar.srt" },
-              { "language": "English", "url": "https://site.com/subtitles/got_s01e01_en.srt" }
-            ]
-          },
-          {
-            "number": 2,
-            "title": "The Kingsroad",
-            "url": "https://site.com/series/got/s01e02.mp4",
-            "subtitles": [
-              { "language": "عربي", "url": "https://site.com/subtitles/got_s01e02_ar.srt" }
-            ]
-          }
-        ]
-      },
-      {
-        "number": 2,
-        "title": "الموسم الثاني",
-        "episodes": [
-          {
-            "number": 1,
-            "title": "The North Remembers",
-            "url": "https://site.com/series/got/s02e01.mp4",
-            "subtitles": []
-          }
+          { "number": 1, "title": "When You're Lost in the Darkness", "url": "http://server1.com/tlou/s01e01.mp4", "subtitles": [{"language": "عربي", "url": "http://server1.com/sub/tlou_s01e01_ar.srt"}] },
+          { "number": 2, "title": "Infected", "url": "http://server1.com/tlou/s01e02.mp4", "subtitles": [{"language": "عربي", "url": "http://server1.com/sub/tlou_s01e02_ar.srt"}] }
         ]
       }
     ]
   },
   {
     "id": "2",
-    "title": "Breaking Bad",
-    "poster": "https://site.com/images/bb.jpg",
-    "keys": ["drama", "thriller"],
+    "title": "Stranger Things",
+    "poster": "https://media.appmytv.com/image/movies/12095/34b4786c8c2974e99eea7acb0210139b.jpeg",
+    "keys": ["scifi", "mystery"],
     "seasons": [
       {
         "number": 1,
         "title": "الموسم الأول",
         "episodes": [
-          {
-            "number": 1,
-            "title": "Pilot",
-            "url": "https://site.com/series/bb/s01e01.mp4",
-            "subtitles": [
-              { "language": "عربي", "url": "https://site.com/subtitles/bb_s01e01_ar.srt" }
-            ]
-          },
-          {
-            "number": 2,
-            "title": "Cat's in the Bag",
-            "url": "https://site.com/series/bb/s01e02.mp4",
-            "subtitles": []
-          }
+          { "number": 1, "title": "The Vanishing of Will Byers", "url": "http://server1.com/st/s01e01.mp4", "subtitles": [] }
+        ]
+      },
+      {
+        "number": 2,
+        "title": "الموسم الثاني",
+        "episodes": [
+          { "number": 1, "title": "Madmax", "url": "http://server1.com/st/s02e01.mp4", "subtitles": [] }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "The Boys",
+    "poster": "https://media.appmytv.com/image/movies/12095/34b4786c8c2974e99eea7acb0210139b.jpeg",
+    "keys": ["action", "comedy"],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "الموسم الأول",
+        "episodes": [
+          { "number": 1, "title": "The Name of the Game", "url": "http://server1.com/boys/s01e01.mp4", "subtitles": [] }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Better Call Saul",
+    "poster": "https://media.appmytv.com/image/movies/12095/34b4786c8c2974e99eea7acb0210139b.jpeg",
+    "keys": ["crime", "drama"],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "الموسم الأول",
+        "episodes": [
+          { "number": 1, "title": "Uno", "url": "http://server1.com/bcs/s01e01.mp4", "subtitles": [] }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "title": "The Mandalorian",
+    "poster": "https://media.appmytv.com/image/movies/12095/34b4786c8c2974e99eea7acb0210139b.jpeg",
+    "keys": ["action", "adventure", "scifi"],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "الموسم الأول",
+        "episodes": [
+          { "number": 1, "title": "Chapter 1", "url": "http://server1.com/mando/s01e01.mp4", "subtitles": [] }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Succession",
+    "poster": "https://media.appmytv.com/image/movies/12095/34b4786c8c2974e99eea7acb0210139b.jpeg",
+    "keys": ["drama"],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "الموسم الأول",
+        "episodes": [
+          { "number": 1, "title": "Celebration", "url": "http://server1.com/suc/s01e01.mp4", "subtitles": [] }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "title": "House of the Dragon",
+    "poster": "https://media.appmytv.com/image/movies/12095/34b4786c8c2974e99eea7acb0210139b.jpeg",
+    "keys": ["action", "fantasy"],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "الموسم الأول",
+        "episodes": [
+          { "number": 1, "title": "The Heirs of the Dragon", "url": "http://server1.com/hotd/s01e01.mp4", "subtitles": [] }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "title": "The Crown",
+    "poster": "https://media.appmytv.com/image/movies/12095/34b4786c8c2974e99eea7acb0210139b.jpeg",
+    "keys": ["history", "drama"],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "الموسم الأول",
+        "episodes": [
+          { "number": 1, "title": "Wolferton Splash", "url": "http://server1.com/crown/s01e01.mp4", "subtitles": [] }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "title": "Peaky Blinders",
+    "poster": "https://media.appmytv.com/image/movies/12095/34b4786c8c2974e99eea7acb0210139b.jpeg",
+    "keys": ["crime", "history"],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "الموسم الأول",
+        "episodes": [
+          { "number": 1, "title": "Episode 1", "url": "http://server1.com/pb/s01e01.mp4", "subtitles": [] }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "title": "Dark",
+    "poster": "https://media.appmytv.com/image/movies/12095/34b4786c8c2974e99eea7acb0210139b.jpeg",
+    "keys": ["mystery", "scifi", "thriller"],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "الموسم الأول",
+        "episodes": [
+          { "number": 1, "title": "Secrets", "url": "http://server1.com/dark/s01e01.mp4", "subtitles": [] }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "title": "The Witcher",
+    "poster": "https://media.appmytv.com/image/movies/12095/34b4786c8c2974e99eea7acb0210139b.jpeg",
+    "keys": ["fantasy", "adventure"],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "الموسم الأول",
+        "episodes": [
+          { "number": 1, "title": "The End's Beginning", "url": "http://server1.com/witcher/s01e01.mp4", "subtitles": [] }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "title": "Ted Lasso",
+    "poster": "https://media.appmytv.com/image/movies/12095/34b4786c8c2974e99eea7acb0210139b.jpeg",
+    "keys": ["comedy", "sport"],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "الموسم الأول",
+        "episodes": [
+          { "number": 1, "title": "Pilot", "url": "http://server1.com/ted/s01e01.mp4", "subtitles": [] }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "title": "Sherlock",
+    "poster": "https://media.appmytv.com/image/movies/12095/34b4786c8c2974e99eea7acb0210139b.jpeg",
+    "keys": ["mystery", "crime"],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "الموسم الأول",
+        "episodes": [
+          { "number": 1, "title": "A Study in Pink", "url": "http://server1.com/sherlock/s01e01.mp4", "subtitles": [] }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "title": "Ozark",
+    "poster": "https://media.appmytv.com/image/movies/12095/34b4786c8c2974e99eea7acb0210139b.jpeg",
+    "keys": ["crime", "thriller"],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "الموسم الأول",
+        "episodes": [
+          { "number": 1, "title": "Sugarwood", "url": "http://server1.com/ozark/s01e01.mp4", "subtitles": [] }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "title": "Mindhunter",
+    "poster": "https://media.appmytv.com/image/movies/12095/34b4786c8c2974e99eea7acb0210139b.jpeg",
+    "keys": ["crime", "mystery"],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "الموسم الأول",
+        "episodes": [
+          { "number": 1, "title": "Episode 1", "url": "http://server1.com/mind/s01e01.mp4", "subtitles": [] }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "title": "The Bear",
+    "poster": "https://media.appmytv.com/image/movies/12095/34b4786c8c2974e99eea7acb0210139b.jpeg",
+    "keys": ["comedy", "drama"],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "الموسم الأول",
+        "episodes": [
+          { "number": 1, "title": "System", "url": "http://server1.com/bear/s01e01.mp4", "subtitles": [] }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "17",
+    "title": "Severance",
+    "poster": "https://media.appmytv.com/image/movies/12095/34b4786c8c2974e99eea7acb0210139b.jpeg",
+    "keys": ["scifi", "thriller"],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "الموسم الأول",
+        "episodes": [
+          { "number": 1, "title": "Good News About Hell", "url": "http://server1.com/sev/s01e01.mp4", "subtitles": [] }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "18",
+    "title": "Narcos",
+    "poster": "https://media.appmytv.com/image/movies/12095/34b4786c8c2974e99eea7acb0210139b.jpeg",
+    "keys": ["crime", "biography"],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "الموسم الأول",
+        "episodes": [
+          { "number": 1, "title": "Descenso", "url": "http://server1.com/narcos/s01e01.mp4", "subtitles": [] }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "19",
+    "title": "White Lotus",
+    "poster": "https://media.appmytv.com/image/movies/12095/34b4786c8c2974e99eea7acb0210139b.jpeg",
+    "keys": ["comedy", "drama"],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "الموسم الأول",
+        "episodes": [
+          { "number": 1, "title": "Arrivals", "url": "http://server1.com/lotus/s01e01.mp4", "subtitles": [] }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "20",
+    "title": "Arcane",
+    "poster": "https://media.appmytv.com/image/movies/12095/34b4786c8c2974e99eea7acb0210139b.jpeg",
+    "keys": ["animation", "action", "fantasy"],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "الموسم الأول",
+        "episodes": [
+          { "number": 1, "title": "Welcome to the Playground", "url": "http://server1.com/arcane/s01e01.mp4", "subtitles": [] },
+          { "number": 2, "title": "Some Mysteries Are Better Left Unsolved", "url": "http://server1.com/arcane/s01e02.mp4", "subtitles": [] }
         ]
       }
     ]
