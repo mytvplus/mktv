@@ -232,9 +232,9 @@
         "origin": "",
         "drm_scheme": "clearkey",
 
-        "clearkey_key": "eb5a3a48f3e191a00e3ac1e2d470c491",
+        "clearkey_key": "2c8b7198563527e524d66628c092ef1f",
 
-        "clearkey_kid": "2c8b7198563527e524d66628c092ef1f",
+        "clearkey_kid": "eb5a3a48f3e191a00e3ac1e2d470c491",
 
         "headers": {}
 
