@@ -18,7 +18,7 @@
   },
   "update": {
     "enabled": true,
-    "required": false,
+    "required": true,
     "title": "تحديث جديد",
     "message": "يتوفر إصدار جديد من التطبيق\nيرجى التحديث للحصول على أحدث الميزات",
     "version": "2.0",
