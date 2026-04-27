@@ -1,7 +1,7 @@
 [
   {
     "title": "beIN SPORTS",
-    "logo": "https://cityupload.io/2025/11/unnamed_d6795.png",
+    "logo": "https://www.freelogovectors.net/wp-content/uploads/2023/05/bein-sports_logo-freelogovectors.net_.png",
     "id": "1",
     "type": "package",
     "url": "https://mytvplus.github.io/mktv/channles/bein/data.json"
@@ -232,7 +232,7 @@
   },
   {
     "title": "ALKASS",
-    "logo": "https://oneiraq.github.io/img/alkass.png",
+    "logo": "",
     "id": "34",
     "type": "channel",
     "url": "https://mytvplus.github.io/mktv/channles/livenews/data.json"
