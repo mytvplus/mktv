@@ -126,11 +126,11 @@
 
   {
 
-    "title": "beIN Sports 2",
+    "title": "Alwan 1 - 4K",
 
     "name_match": "beIN SPORTS 2 HD",
 
-    "logo": "https://cityupload.io/2025/12/bein2.png",
+    "logo": "https://raw.githubusercontent.com/iraqapps/earthlinksport/refs/heads/main/img/alwan/1.png",
 
     "key": "bein_arabic",
 
@@ -144,13 +144,13 @@
 
         "name": "جودة عالية",
 
-        "url": "http://marveltv.info/live/210460730/107604734/485633.ts",
+        "url": "http://supaapp.xyz:80/live/747645/lion123123/418111.ts",
 
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
 
-        "referer": "https://x.com/",
+        "referer": "",
 
-        "origin": "https://x.com"
+        "origin": ""
 
       }
 
