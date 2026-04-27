@@ -178,19 +178,19 @@
 
         "name": "1080p DRM",
 
-        "url": "https://example.com/drm/stream.m3u8",
+        "url": "http://afcocafot.com:8080/bn1ultra4k/index.m3u8",
 
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
 
-        "referer": "https://example.com/",
+        "referer": "",
 
-        "origin": "https://example.com",
+        "origin": "",
 
         "cookie": "session=abc123",
 
-        "drm_scheme": "widevine",
+        "drm_scheme": "",
 
-        "drm_license_url": "https://example.com/license",
+        "drm_license_url": "",
 
         "headers": {
 
