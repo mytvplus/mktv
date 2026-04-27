@@ -123,6 +123,39 @@
     ]
 
   },
+  {
+
+    "title": "Alwan 1 - 4K",
+
+    "name_match": "beIN SPORTS 2 HD",
+
+    "logo": "https://raw.githubusercontent.com/iraqapps/earthlinksport/refs/heads/main/img/alwan/1.png",
+
+    "key": "bein_arabic",
+
+    "id": "2",
+
+    "type": "channel",
+
+    "servers": [
+
+      {
+
+        "name": "جودة عالية",
+
+        "url": "https://api.yallaforja.site/moot/mas.m3u8?id=2/4",
+
+        "user_agent": "frr",
+
+        "referer": "",
+
+        "origin": "https://joyousplay.xyz"
+
+      }
+
+    ]
+
+  },
 
   {
 
