@@ -206,9 +206,9 @@
 
   {
 
-    "title": "قناة ClearKey",
+    "title": "TEST",
 
-    "name_match": "ClearKey Channel",
+    "name_match": "B1 IRAQ",
 
     "logo": "https://cityupload.io/2025/12/clearkey.png",
 
@@ -224,19 +224,19 @@
 
         "name": "720p ClearKey",
 
-        "url": "https://example.com/ck/stream.m3u8",
+        "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/adaptive.m3u8",
 
-        "user_agent": "Mozilla/5.0",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
 
-        "referer": "https://example.com/",
+        "referer": "",
 
-        "origin": "https://example.com",
+        "origin": "",
 
-        "drm_scheme": "clearkey",
+        "drm_scheme": "",
 
-        "clearkey_key": "1234567890abcdef1234567890abcdef",
+        "clearkey_key": "",
 
-        "clearkey_kid": "abcdef1234567890abcdef1234567890",
+        "clearkey_kid": "",
 
         "headers": {}
 
