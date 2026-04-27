@@ -203,6 +203,45 @@
     ]
 
   },
+  
+    "title": "StarzPLAY Sports 1",
+
+    "name_match": "beIN SPORTS 2 HD",
+
+    "logo": "https://lh3.googleusercontent.com/-P7tlRJ7mr4Q/aLGOW8Yaq4I/AAAAAAAAS94/8yOTp4oJizwe9O5Xm0kSETQg7Mq5-c_ewCNcBGAsYHQ/w250/0.jpg=w250",
+
+    "key": "bein_arabic",
+
+    "id": "2",
+
+    "type": "channel",
+
+    "servers": [
+
+      {
+
+        "name": "جودة عالية",
+
+        "url": "https://fastlyrwb-live.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd",
+
+        "user_agent": "Mozilla/5.0 (X11; Linux x86_64; rv:143.0) Gecko/20100101 Firefox/143.0",
+
+        "referer": "",
+
+        "origin": "",
+        "drm_scheme": "clearkey",
+
+        "clearkey_key": "eb5a3a48f3e191a00e3ac1e2d470c491",
+
+        "clearkey_kid": "2c8b7198563527e524d66628c092ef1f",
+
+        "headers": {}
+
+      }
+
+    ]
+
+  },
 
   {
 
