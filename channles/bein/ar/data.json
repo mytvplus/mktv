@@ -2,11 +2,13 @@
 
   {
 
-    "title": "beIN Sports 1 HD",
+    "title": "beIN Sports 1",
+
+    "name_match": "beIN SPORTS 1 HD",
 
     "logo": "https://cityupload.io/2025/12/bein1.png",
 
-    "key": "bein",
+    "key": "bein_arabic",
 
     "id": "1",
 
@@ -20,7 +22,7 @@
 
         "url": "http://het139a.ycn-redirect.com/live/918454578001/index.m3u8",
 
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
 
         "referer": "https://x.com/",
 
@@ -46,7 +48,7 @@
 
         "url": "http://het101b.ycn-redirect.com/live/918454578001/index.m3u8",
 
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
 
         "referer": "https://x.com/",
 
@@ -72,7 +74,7 @@
 
         "url": "http://het130c.ycn-redirect.com/live/918454578001/index.m3u8",
 
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
 
         "referer": "https://x.com/",
 
@@ -98,7 +100,7 @@
 
         "url": "http://het102a.ycn-redirect.com/live/978480008877005/index.m3u8",
 
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
 
         "referer": "https://x.com/",
 
@@ -124,11 +126,13 @@
 
   {
 
-    "title": "beIN Sports 2 HD",
+    "title": "beIN Sports 2",
+
+    "name_match": "beIN SPORTS 2 HD",
 
     "logo": "https://cityupload.io/2025/12/bein2.png",
 
-    "key": "bein",
+    "key": "bein_arabic",
 
     "id": "2",
 
@@ -142,49 +146,11 @@
 
         "url": "http://het101b.ycn-redirect.com/live/918454578002/index.m3u8",
 
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
 
         "referer": "https://x.com/",
 
-        "origin": "https://x.com",
-
-        "cookie": "",
-
-        "drm_scheme": "",
-
-        "clearkey_key": "",
-
-        "clearkey_kid": "",
-
-        "drm_license_url": "",
-
-        "headers": {}
-
-      },
-
-      {
-
-        "name": "جودة متعددة",
-
-        "url": "http://het139a.ycn-redirect.com/live/918454578002/index.m3u8",
-
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-
-        "referer": "https://x.com/",
-
-        "origin": "https://x.com",
-
-        "cookie": "",
-
-        "drm_scheme": "",
-
-        "clearkey_key": "",
-
-        "clearkey_kid": "",
-
-        "drm_license_url": "",
-
-        "headers": {}
+        "origin": "https://x.com"
 
       }
 
@@ -196,9 +162,11 @@
 
     "title": "قناة مشفرة DRM",
 
+    "name_match": "DRM Channel HD",
+
     "logo": "https://cityupload.io/2025/12/drm_channel.png",
 
-    "key": "bein",
+    "key": "bein_arabic",
 
     "id": "3",
 
@@ -222,10 +190,6 @@
 
         "drm_scheme": "widevine",
 
-        "clearkey_key": "",
-
-        "clearkey_kid": "",
-
         "drm_license_url": "https://example.com/license",
 
         "headers": {
@@ -244,9 +208,11 @@
 
     "title": "قناة ClearKey",
 
+    "name_match": "ClearKey Channel",
+
     "logo": "https://cityupload.io/2025/12/clearkey.png",
 
-    "key": "bein",
+    "key": "bein_arabic",
 
     "id": "4",
 
@@ -266,15 +232,11 @@
 
         "origin": "https://example.com",
 
-        "cookie": "",
-
         "drm_scheme": "clearkey",
 
         "clearkey_key": "1234567890abcdef1234567890abcdef",
 
         "clearkey_kid": "abcdef1234567890abcdef1234567890",
-
-        "drm_license_url": "",
 
         "headers": {}
 
