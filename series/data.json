@@ -1,16 +1,84 @@
 [
   {
     "id": "1",
-    "title": "The Last of Us",
-    "poster": "https://media.appmytv.com/image/movies/12095/34b4786c8c2974e99eea7acb0210139b.jpeg",
-    "keys": ["action", "horror", "drama"],
+    "title": "Tracker 2024",
+    "poster": "https://media.appmytv.com/image/series/6424/e160aff861b6168f81d3f03431d0dd8a.png",
+    "keys": ["action", "drama"],
     "seasons": [
       {
         "number": 1,
         "title": "الموسم الأول",
         "episodes": [
-          { "number": 1, "title": "When You're Lost in the Darkness", "url": "http://server1.com/tlou/s01e01.mp4", "subtitles": [{"language": "عربي", "url": "http://server1.com/sub/tlou_s01e01_ar.srt"}] },
-          { "number": 2, "title": "Infected", "url": "http://server1.com/tlou/s01e02.mp4", "subtitles": [{"language": "عربي", "url": "http://server1.com/sub/tlou_s01e02_ar.srt"}] }
+          {
+            "number": 1,
+            "title": "E1",
+            "url": "http://154.48.204.98:80/Flussonic251/EnglishTvSeries1/Tracker2024-S01E01.mp4",
+            "subtitles": [
+              { "language": "عربي", "url": "http://154.48.204.98:80/Flussonic251/EnglishTvSeries-Subtitle/Ar/Tracker2024-Ar-S01E01.srt" },
+              { "language": "English", "url": "http://154.48.204.98:80/Flussonic251/EnglishTvSeries-Subtitle/En/Tracker2024-En-S01E01.srt" }
+            ]
+          },
+          {
+            "number": 2,
+            "title": "E2",
+            "url": "http://154.48.204.98:80/Flussonic251/EnglishTvSeries1/Tracker2024-S01E02.mp4",
+            "subtitles": [
+              { "language": "عربي", "url": "http://154.48.204.98:80/Flussonic251/EnglishTvSeries-Subtitle/Ar/Tracker2024-Ar-S01E02.srt" },
+              { "language": "English", "url": "http://154.48.204.98:80/Flussonic251/EnglishTvSeries-Subtitle/En/Tracker2024-En-S01E02.srt" }
+            ]
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "title": "الموسم الثاني",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "E1",
+            "url": "http://154.48.204.98:80/Flussonic251/EnglishTvSeries1/Tracker2024-S01E01.mp4",
+            "subtitles": [
+              { "language": "عربي", "url": "http://154.48.204.98:80/Flussonic251/EnglishTvSeries-Subtitle/Ar/Tracker2024-Ar-S01E01.srt" },
+              { "language": "English", "url": "http://154.48.204.98:80/Flussonic251/EnglishTvSeries-Subtitle/En/Tracker2024-En-S01E01.srt" }
+            ]
+          },
+          {
+            "number": 2,
+            "title": "E2",
+            "url": "http://154.48.204.98:80/Flussonic251/EnglishTvSeries1/Tracker2024-S01E02.mp4",
+            "subtitles": [
+              { "language": "عربي", "url": "http://154.48.204.98:80/Flussonic251/EnglishTvSeries-Subtitle/Ar/Tracker2024-Ar-S01E02.srt" },
+              { "language": "English", "url": "http://154.48.204.98:80/Flussonic251/EnglishTvSeries-Subtitle/En/Tracker2024-En-S01E02.srt" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Breaking Bad",
+    "poster": "https://site.com/images/bb.jpg",
+    "keys": ["drama", "thriller"],
+    "seasons": [
+      {
+        "number": 1,
+        "title": "الموسم الأول",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Pilot",
+            "url": "https://site.com/series/bb/s01e01.mp4",
+            "subtitles": [
+              { "language": "عربي", "url": "https://site.com/subtitles/bb_s01e01_ar.srt" }
+            ]
+          },
+          {
+            "number": 2,
+            "title": "Cat's in the Bag",
+            "url": "https://site.com/series/bb/s01e02.mp4",
+            "subtitles": []
+          }
         ]
       }
     ]
