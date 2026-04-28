@@ -239,7 +239,7 @@
   },
   {
   
-    "title": "StarzPLAY Sports 1",
+    "title": "Shahid Sport 1",
 
     "name_match": "Shahid Sport 1",
 
@@ -266,9 +266,9 @@
         "origin": "",
         "drm_scheme": "clearkey",
 
-        "clearkey_key": "ab081a704aad41829b1123b09b6ecafd",
+        "clearkey_key": "dd51609092fff15e68b91debf5d591f9",
 
-        "clearkey_kid": "dd51609092fff15e68b91debf5d591f9",
+        "clearkey_kid": "ab081a704aad41829b1123b09b6ecafd",
 
         "headers": {}
 
