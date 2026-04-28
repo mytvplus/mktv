@@ -241,9 +241,9 @@
   
     "title": "StarzPLAY Sports 1",
 
-    "name_match": "beIN SPORTS 2 HD",
+    "name_match": "Shahid Sport 1",
 
-    "logo": "https://lh3.googleusercontent.com/-P7tlRJ7mr4Q/aLGOW8Yaq4I/AAAAAAAAS94/8yOTp4oJizwe9O5Xm0kSETQg7Mq5-c_ewCNcBGAsYHQ/w250/0.jpg=w250",
+    "logo": "https://oneiraq.github.io/img/mix/shahid_sport.png",
 
     "key": "bein_arabic",
 
@@ -257,18 +257,18 @@
 
         "name": "جودة عالية",
 
-        "url": "https://fastlyrwb-live.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd",
+        "url": "https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/index.mpd",
 
-        "user_agent": "Mozilla/5.0 (X11; Linux x86_64; rv:143.0) Gecko/20100101 Firefox/143.0",
+        "user_agent": "gg",
 
         "referer": "",
 
         "origin": "",
         "drm_scheme": "clearkey",
 
-        "clearkey_key": "2c8b7198563527e524d66628c092ef1f",
+        "clearkey_key": "ab081a704aad41829b1123b09b6ecafd",
 
-        "clearkey_kid": "eb5a3a48f3e191a00e3ac1e2d470c491",
+        "clearkey_kid": "dd51609092fff15e68b91debf5d591f9",
 
         "headers": {}
 
