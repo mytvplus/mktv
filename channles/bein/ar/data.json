@@ -270,7 +270,10 @@
 
         "clearkey_kid": "ab081a704aad41829b1123b09b6ecafd",
 
-        "headers": {}
+        "headers": {
+    "Referer": "https://shahid.mbc.net/",
+    "Origin": "https://shahid.mbc.net"
+}
 
       }
 
