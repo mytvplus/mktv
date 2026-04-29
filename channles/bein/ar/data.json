@@ -143,12 +143,12 @@
 
         "name": "جودة عالية",
 
-        "url": "https://ostora.pages.dev/api/116900.png#.m3u8",
+        "url": "https://ostora.pages.dev/api/116900.png",
 
         "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
 
         "referer": "",
-        "drm_scheme": "universal",
+        "drm_scheme": "",
 
         "origin": ""
 
@@ -259,11 +259,11 @@
 
         "url": "https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/index.mpd",
 
-        "user_agent": "gg",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
 
-        "referer": "",
+        "referer": "https://shahid.mbc.net/",
 
-        "origin": "",
+        "origin": "https://shahid.mbc.net",
         "drm_scheme": "clearkey",
 
         "clearkey_key": "dd51609092fff15e68b91debf5d591f9",
