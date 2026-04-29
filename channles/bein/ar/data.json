@@ -284,7 +284,7 @@
 
     "name_match": "DRM Channel HD",
 
-    "logo": "https://raw.githubusercontent.com/iraqapps/earthlinksport/refs/heads/main/img/alwan/1.png",
+    "logo": "",
 
     "key": "bein_arabic",
 
@@ -308,7 +308,7 @@
 
         "cookie": "",
 
-        "drm_scheme": "",
+        "drm_scheme": "isweb",
 
         "drm_license_url": "",
 
